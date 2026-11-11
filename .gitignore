@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+jetson/results/
+models/
+data/processed/sent_emb_*.npy
+data/processed/sent_meta_*.jsonl
